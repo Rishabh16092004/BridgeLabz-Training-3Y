@@ -7,6 +7,9 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Java_Methods" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/java_control_flow" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java_Strings/Level1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java_Strings/Level_2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java_arrays" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
