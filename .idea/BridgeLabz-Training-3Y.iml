@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Java_Strings/Level1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Java_Strings/Level_2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Java_arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java_class_object/LEVEL1" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
