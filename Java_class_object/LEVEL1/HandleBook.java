@@ -1,9 +1,9 @@
-class Book {
+class HandleBook {
     String title;
     String author;
     int price;
 
-    Book(String title,String author,int price){
+    HandleBook(String title, String author, int price){
         this.title=title;
         this.author=author;
         this.price=price;
@@ -14,9 +14,9 @@ class Book {
         System.out.println("Price: "+price);
     }
     public static void main(String args[]){
-        Book book1 = new Book("2States","Chetan bhagat",500);
-        Book book2 = new Book("Wings of Fire","Abdul kalam A.P.J",500);
-        book1.displaydetails();
-        book2.displaydetails();
+        HandleBook handleBook1 = new HandleBook("2States","Chetan bhagat",500);
+        HandleBook handleBook2 = new HandleBook("Wings of Fire","Abdul kalam A.P.J",500);
+        handleBook1.displaydetails();
+        handleBook2.displaydetails();
     }
 }
